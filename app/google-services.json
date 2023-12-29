@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132678179087",
+    "project_id": "pokeapi-344a7",
+    "storage_bucket": "pokeapi-344a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132678179087:android:08324a42e5ebb3337d867a",
+        "android_client_info": {
+          "package_name": "pokemon.code.challenge.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPf-pnXV5-ezgX6LZHg4tOkrlaxybnKZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pokemon Code Challenge App</string>
+    <string name="placeholder_label">Placeholder</string>
+    <string name="error_message">Ocurrio un error al cargar los datos, mensaje: %1$s</string>
+    <string name="connection_error">Revise su conección a internet</string>
+    <string name="my_locations">Mis ubicaciones</string>
+    <string name="pokemon_number_and_name">#%1$d %2$s</string>
+    <string name="pokemon_height">Altura %1$s</string>
+    <string name="pokemon_weight">Peso %1$s</string>
+    <string name="pokemon_types">Tipos: %1$s</string>
+    <string name="pokemon_type_two">/%1$s</string>
+    <string name="current_location">Ubicación actual</string>
+    <string name="current_location_data">Fecha: %1$s\nUbicación: Latitud(%2$s) - Longitud(%3$s)</string>
+    <string name="notification_channel_id">notification_channel_id</string>
+</resources>
